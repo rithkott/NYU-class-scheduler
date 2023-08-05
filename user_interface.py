@@ -52,4 +52,3 @@ def course_lister():
             else:
                 print("Invalid input")
     return main_course_list
-
