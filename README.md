@@ -1,18 +1,19 @@
 # NYU-class-scheduler
 An automatic class schedule generator for NYU meant to facilitate the process of signing up for classes
 
-This is my first project, I made it right after I finished taking Intro to Programming because I came across a cool API by user A1Liu that tracked NYU's course offerings.
+This is my first personal project, I made it right after I finished taking Intro to Programming because I came across a cool API by user A1Liu that tracked NYU's course offerings.
 I wanted to make something that was challenging but would also solve a real problem (NYU Albert's time-consuming manual course selection)
 
-The code is disorganized, the runtime is abysmal, and the algorithm is highly inefficient, but it was my first personal project and it does something cool. The only reason I haven't fixed it is that the API is no longer updated
+The code is disorganized, the runtime is abysmal, and the algorithm is highly inefficient, but it works and it does something cool. The only reason I haven't fixed it is that the API is no longer updated
 
 THE API IS NO LONGER UPDATED, SO THIS PROGRAM NO LONGER WORKS FOR FUTURE SEMESTERS (Past Fall 2023)
 However, it still works on past semesters if you want to check if your schedule could have been better.
 
 
 How to use:
+  - Download the zip file and open it in an IDE
   - Go into json_generator.py and change the term to the term you wish to check using the first 2 letters of the season followed by the year (ex. sp2023, fa2019)
-  - Run user_interface.py and follow the prompts, adding all the classes you need to take
+  - Run scheduler.py and follow the prompts, adding all the classes you need to take
   - When asked for the course code, enter the letters only and not the class number (ex. MATH-UA, ACCT-UB, EG-UY)
   - Find your class in the list that comes up and enter the number (Don't enter the number from memory, the API sometimes has them listed a bit differently)
   - Enter the earliest and latest hour you would like a class in 24 hour time (ex. 10 for 10:00am or 16 for 4:00pm)
