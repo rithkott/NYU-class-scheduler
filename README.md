@@ -35,6 +35,6 @@ Limitations:
   - I never got around to adding campus filtering or integrating it with a Rate my Professor API as I had planned
 
 
-If anyone wants to continue my work and adapt this code to a different API or take inspiration from the scheduling algorithm feel free to do so.
+If anyone wants to take inspiration from my work and adapts this code to a different API or uses my scheduling algorithm feel free to do so.
 
-Please shoot me an email or Instagram DM if you do because I would be interested to see it. Contact Info is in my profile.
+Please send me an email or LinkedIn DM if you do because I would be interested to see it. My contact info is in my profile.
